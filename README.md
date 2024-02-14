@@ -4,19 +4,19 @@
 
 <br>
 
-  ### <div align="center">👨‍💻 Computer Science 🚀 Web development</div>  
+  ### <div align="center">👨‍💻 Computer Science 🚀 Embedded development 🐚 Web development</div>  
   
 <br>
 
+ - <div align="left">✨ Visit my <a href="https://velog.io/@jimeaning">Devlog</a>!  </div>
+ 
 - <div align="left">🔭 I’m currently working on <a href="https://www.youtube.com/watch?v=-0EPXT0xlYw&t=3s">Meta4Music</a>  </div>
   
 
-- <div align="left">🌱 I’m currently learning Three.js & Blender  </div>
+- <div align="left">🌱 I’m currently learning Embedded Programming  </div>
   
 
 - <div align="left">⚡ Let's come a long way  </div>
-
- - <div align="left">✨ Visit my <a href="https://velog.io/@jimeaning">Devlog</a>!  </div>
   
 <br>
   
